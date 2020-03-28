@@ -10,5 +10,5 @@ return (`Happy ${holiday}, ${name}!`)
 }
 function happyHolidaysTo(name) {
 console.log("Happy holidays, you!")
-return 'Happy holidays, everyone!'
+return 'Happy holidays, you!'
 }
