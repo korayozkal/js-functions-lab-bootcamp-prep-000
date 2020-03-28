@@ -9,6 +9,6 @@ function happyCustomHolidayTo(holiday, name) {
 return (`Happy ${holiday}, ${name}!`)
 }
 function happyHolidaysTo(name) {
-console.log "Happy holidays, ${name}!"
-return 'Happy holidays, you!
+console.log ("Happy holidays, ${name}!")
+return 'Happy holidays, you!'
 }
