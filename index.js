@@ -5,5 +5,6 @@ console.log("My birthday is " + date)
 function happyHolidays() {
 return("Happy holidays!")
 }
-function happyCustomHolidayTo(holiday, Name) {
+function happyCustomHolidayTo(holiday, name) {
 return (`Happy ${holiday}, ${name}!`)
+}
